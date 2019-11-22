@@ -1,4 +1,4 @@
-# primitive_messaging
+# Primitive Messaging Application
 
 Instant messaging applications such as WhatsApp, WeChat, Facebook Messenger, etc. are widely
 used with millions of subscribers participating in them globally. Through this program, I implemented a simple instant messaging application. This application consist of two model of messaging:
